@@ -1,4 +1,2 @@
-#All files and folders
-artigos_e_outros/
-*.html
-PREVISAOZDEZSAFRAZ-ZCANA-DE-ACARZ-ZAGOZ-2020.xls
+/localdata/*
+/artigos_e_outros
